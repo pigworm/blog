@@ -15,7 +15,7 @@ baseurl:          '/blog'
                   # sidebar_blog_link below.
 
 author:
-  name:           '마케터 & 초보 개발자'
+  name:           '마케터 & 초보 개발자_test'
   url:            https://twitter.com/fongandrewc
 
 paginate:         5
